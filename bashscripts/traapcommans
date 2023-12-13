@@ -1,0 +1,18 @@
+#!/bin/bash
+#trap =traping tesignils understanding the commands ex: ctrl+c like that
+in linux multiple signals
+# trap "echo dont use the ctrl+c" ctrl+c should not work
+#trap "rmm -rf"ctrl+c
+kill -9 java #killjava or process id
+
+
+
+
+
+
+
+
+
+
+
+
