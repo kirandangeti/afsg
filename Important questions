@@ -1,6 +1,11 @@
 What is NIC
-A network interface, often referred to as a NIC (Network Interface Card) or a network adapter, is a hardware component or a virtual component that allows a computing device to connect and communicate with a network. In the context of cloud computing and infrastructure management, such as in platforms like Azure or AWS, a network interface represents a networking component associated with a virtual machine (VM) or another networked resource.
+A network interface, often referred to as a NIC (Network Interface Card) or a network adapter, is a hardware component or a virtual component 
+that allows a computing device to connect and communicate with a network. In the context of cloud computing and infrastructure management, 
+such as in platforms like Azure or AWS, a network interface represents a networking component associated with a virtual machine (VM) or 
+another networked resource.
 
 
 Why ip_configuration_name         = "Internal"
-For instance, when creating a network interface for a virtual machine in Azure, you might define an IP configuration with a specific name, such as "Internal," to represent a particular set of network settings. This configuration might be associated with a private IP address or linked to specific subnets within a virtual network
+For instance, when creating a network interface for a virtual machine in Azure, you might define an IP configuration with a specific name, 
+such as "Internal," to represent a particular set of network settings. This configuration might be associated with a private IP address or 
+linked to specific subnets within a virtual network
